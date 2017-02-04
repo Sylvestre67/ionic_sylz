@@ -1,0 +1,12 @@
+sylz-top-nav{
+  width:100%;
+  background-color:transparent;
+  padding:.5em;
+  span{
+    margin-right:.5em;
+    cursor:pointer;
+  }
+  > span:last-child{
+    margin-right:.3em;
+  }
+}
